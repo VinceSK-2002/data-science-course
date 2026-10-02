@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": -1,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "r.rterm.windows": "C:/Program Files/R/R-4.5.1/bin/R.exe",
+  "[markdown]": { "editor.wordWrap": "on" }
+}
