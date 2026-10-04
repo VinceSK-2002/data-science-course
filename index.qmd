@@ -1,0 +1,18 @@
+---
+title: "Setup test"
+format: html
+---
+
+## Markdown works
+
+*Italic*, **bold**, [a link](https://quarto.org), `inline code`.
+
+$$\sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2}$$
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+mtcars %>% count(cyl) %>% kbl()
+```
+
+The data has `r nrow(mtcars)` rows.
