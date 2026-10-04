@@ -1,0 +1,6 @@
+{
+  "permissions": {
+    "allow": ["Bash(quarto render:*)", "Bash(git status)"],
+    "deny": ["Read(./keys/**)"]
+  }
+}
